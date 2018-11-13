@@ -1,19 +1,15 @@
 ---
-title: Este es para los que no saben programar
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/blog-flavor_wheel.jpg
+title: nueva pagina
+subtitle: mi nueva pagina
+image: /img/illustrations-coffee-gear.svg
 blurb:
-  heading: Why Kaldi?
+  heading: buen post!!!!
   text: >-
     con esta tecnología las personas pueden publicar sus post en su pagina
     web!!!!
 intro:
   heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: 'jhewkjñhkfjhqñkwhfklqwhklvhk{lqhklhvlhklv'
 products:
   - image: img/illustrations-coffee.svg
     text: >-
